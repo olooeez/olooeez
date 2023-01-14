@@ -12,4 +12,4 @@ I am currently studying information systems at the Federal University of Viçosa
 
 #### • Contact
 
-You can contact me via [email](mailto:luizfelipecastrovb@gmail.com) or by [linkedin](https://www.linkedin.com/in/olooeez).
+You can contact me via [email](mailto:luizfelipecastrovb@gmail.com). I also have a [linkedin](https://www.linkedin.com/in/olooeez) and a [mastodon](https://fosstodon.org/@olooeez), if you want to follow me.
