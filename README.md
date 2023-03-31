@@ -1,6 +1,6 @@
 ### Luiz Felipe (olooeez)
 
-I mainly program in C/C++, Java, Ruby and Shell Script. I use Scrum, CI/CD and TDD when I'm developing.
+I mainly program in C, C#, Ruby, Shell Script, Go, HTML5, CSS3, JavaScript and PHP.
 
 #### • Projects
 
@@ -9,7 +9,3 @@ You can see all my projects I'm currently working on in my pinned projects.
 #### • Education
 
 I am currently studying information systems at the Federal University of Viçosa.
-
-#### • Contact
-
-You can contact me via [email](mailto:luizfelipecastrovb@gmail.com). I also have a [linkedin](https://www.linkedin.com/in/olooeez) and a [mastodon](https://fosstodon.org/@olooeez), if you want to follow me.
