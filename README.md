@@ -1,7 +1,7 @@
 <h3>Luiz Felipe (olooeez)</h3>
 <br>
 <p>Sou um <strong>estudante</strong> de Sistemas de Informação (UFV) e <strong>desenvolvedor full-stack</strong>
-  (Freelance) que utiliza.</p>
+  (Freelance).</p>
 <details>
   <summary>
     <h4>Minha stack</h4>
